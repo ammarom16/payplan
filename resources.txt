@@ -1,0 +1,10 @@
+1- https://www.npmjs.com/package/vuejs-datepicker
+2- https://www.npmjs.com/package/vue-moment
+3- https://jsfiddle.net/mani04/bgzhw68m/
+4- https://stackoverflow.com/questions/149055/how-can-i-format-numbers-as-currency-string-in-javascript  (second reply)
+5- https://stackoverflow.com/questions/56260985/moment-js-how-to-set-is-between-and-equal-between-2-dates
+6- this.$forceUpdate(); is a magic spell
+7- https://stackoverflow.com/questions/8668174/indexof-method-in-an-object-array (best reply)
+8- THIS! https://www.reddit.com/r/vuejs/comments/8kn53j/how_to_blur_all_inputs/
+9- https://www.youtube.com/watch?v=sYNjEzcOTOs
+10- https://github.com/caiofsouza/vue-backtotop
